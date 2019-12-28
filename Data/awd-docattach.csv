@@ -20,14 +20,14 @@
 "Monday, November 6, 2017",VF53185130,TIAEXPIRED
 "Monday, November 6, 2017",VF53180790,TIAEXPIRED
 "Monday, November 6, 2017",VF53195370,EFT TIA
-"Monday, November 6, 2017",VF53180870,DelReq
+"Monday, November 6, 2017",VF53180870,Docattach
 "Monday, November 6, 2017",VF53184510,TIAEXPIRED
 "Monday, November 6, 2017",VF53195830,EFT TIA
 "Monday, November 6, 2017",VF53197170,EFT TIA
 "Monday, November 6, 2017",VF53197110,EFT TIA
 "Monday, November 6, 2017",VF53196080,EFT TIA
 "Monday, November 6, 2017",VF53192920,EFT TIA
-"Monday, November 6, 2017",VF53180430,DelReq
+"Monday, November 6, 2017",VF53180430,Docattach
 "Tuesday, November 7, 2017",VF53196730,EFT TIA
 "Tuesday, November 7, 2017",VF53197270,EFT TIA
 "Tuesday, November 7, 2017",VF53197440,EFT TIA
@@ -43,7 +43,7 @@
 "Friday, November 10, 2017",VF53199930,EFT TIA
 "Friday, November 10, 2017",VF53198280,EFT TIA
 "Friday, November 10, 2017",VF53192880,Refund
-"Friday, November 10, 2017",VF53182950,DelReq
+"Friday, November 10, 2017",VF53182950,Docattach
 "Friday, November 10, 2017",VF53200020,EFT TIA
 "Friday, November 10, 2017",VF53195570,Paycase
 "Wednesday, November 15, 2017",VF53184740,TIAEXPIRED
@@ -532,7 +532,7 @@
 "Tuesday, February 13, 2018",VF53247010,EFT TIA
 "Tuesday, February 13, 2018",VF53246890,EFT TIA
 "Tuesday, February 13, 2018",VF53246930,EFT TIA
-"Wednesday, February 14, 2018",VF53245890,Wire
+"Wednesday, February 14, 2018",VF53245890,Paycase
 "Wednesday, February 14, 2018",VF53182950,Reissue
 "Wednesday, February 14, 2018",VF53180660,Docattach
 "Wednesday, February 14, 2018",VF53205280,Docattach
@@ -851,7 +851,7 @@
 "Friday, March 23, 2018",VF53189830,Apply Check
 "Friday, March 23, 2018",VF53197570,Apply Check
 "Friday, March 23, 2018",VP66319580,Paycase
-"Monday, March 26, 2018",VP66319580,Portfolio Rebalancing
+"Monday, March 26, 2018",VP66319580,Paycase
 "Monday, March 26, 2018",VF53247180,Docattach
 "Monday, March 26, 2018",VP66316270,Docattach
 "Monday, March 26, 2018",VF53265500,Docattach
@@ -3851,7 +3851,7 @@
 "Tuesday, February 26, 2019",VP66349990,Docattach
 "Tuesday, February 26, 2019",VF53391230,Paycase
 "Tuesday, February 26, 2019",VP66330580,Reissue
-"Wednesday, February 27, 2019",VF53355350,"Per NBCOR(421578973), Policy made Not Taken"
+"Wednesday, February 27, 2019",VF53355350,Docattach
 "Wednesday, February 27, 2019",VF53407520,Paycase
 "Wednesday, February 27, 2019",VP66330580,Reissue
 "Wednesday, February 27, 2019",VP66349430,Docattach
@@ -4498,7 +4498,7 @@
 "Wednesday, April 24, 2019",VF53385510,Docattach
 "Wednesday, April 24, 2019",VF53408960,Paycase
 "Wednesday, April 24, 2019",VF53426610,Docattach
-"Wednesday, April 24, 2019",VF53427890,Unsigned monthly illustration rcvd
+"Wednesday, April 24, 2019",VF53427890,Docattach
 "Wednesday, April 24, 2019",VF53442100,Docattach
 "Wednesday, April 24, 2019",VF53447620,Docattach
 "Wednesday, April 24, 2019",VF53451370,Apply Check
