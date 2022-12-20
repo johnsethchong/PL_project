@@ -1,4 +1,4 @@
-# This is a project I've made using my work history at Pacific Life
+# This is a project I've made using my processing work history
 I manually kept track of the work I processed between 2014 - 2020. Due to privacy, the data used was very limited. I was able to perform an analysis only using dates, the type of policy given the policy number, and the processing done.
 <br>
 <br>
